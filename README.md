@@ -1,4 +1,3 @@
-
 # 🎬 CINESPOILER - API DE CINE
 
 API REST para la gestión de cine desarrollada con Django REST Framework.
@@ -9,21 +8,21 @@ Permite administrar películas, géneros, salas, funciones y reservas.
 ## 📸 Capturas principales
 
 1. **Proyecto levantado**
-	![Proyecto levantado](docs/levantandoelproyecto.png)
+	![Proyecto levantado](cinespoiler/docs/levantandoelproyecto.png)
 2. **Película SIN relación**
-	![Película sin relación](docs/peliculassinrelacion.png)
+	![Película sin relación](cinespoiler/docs/peliculassinrelacion.png)
 3. **Película CON relación**
-	![Película con relación](docs/peliculaconrelacion.png)
+	![Película con relación](cinespoiler/docs/peliculaconrelacion.png)
 4. **Creando géneros y endpoint**
-	![Creando géneros](docs/creandpgeneros.png)
+	![Creando géneros](cinespoiler/docs/creandpgeneros.png)
 5. **Endpoint agregado (recomendar)**
-	![Endpoint recomendar](docs/endpointagregado.png)
+	![Endpoint recomendar](cinespoiler/docs/endpointagregado.png)
 6. **Cartelera de películas**
-	![Cartelera de películas](docs/carteleradepeli.png)
+	![Cartelera de películas](cinespoiler/docs/carteleradepeli.png)
 7. **Funciones**
-	![Funciones](docs/funciones.png)
+	![Funciones](cinespoiler/docs/funciones.png)
 8. **Reservas**
-	![Reservas](docs/reservas.png)
+	![Reservas](cinespoiler/docs/reservas.png)
 
 ---
 
@@ -62,7 +61,7 @@ Permite administrar películas, géneros, salas, funciones y reservas.
 ## 📄 Notas
 
 - Todas las capturas fueron tomadas directamente del navegador.
-- Para más detalles y explicaciones de cada endpoint, consulta la carpeta [`docs/`](docs/).
+- Para más detalles y explicaciones de cada endpoint, consulta la carpeta [`cinespoiler/docs/`](cinespoiler/docs/).
 
 ---
 
