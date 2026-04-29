@@ -2,12 +2,15 @@
 venv/
 .venv/
 
+
 # Python
 __pycache__/
 *.pyc
 
+
 # base de datos
 db.sqlite3
+
 
 # logs
 *.log
