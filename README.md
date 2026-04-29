@@ -65,4 +65,4 @@ Permite administrar películas, géneros, salas, funciones y reservas.
 
 ---
 
-Desarrollado por: *Tu Nombre Aquí*
+Desarrollado por: Naomi Solanch Veliz Pie
